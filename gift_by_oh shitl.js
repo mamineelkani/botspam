@@ -45,4 +45,4 @@ if (message.content === prefix+'spam') {
       }
 });
 
-client.login("NjEwMDMyMDY5MjMzNDc1NjA1.XU_YFw.8dZMFPvyW2jvTvuPy7nDM39Ycyw");
+client.login("NTc2NDU0NzAxNDg3NDg5MDI0.XWUXCg.3wLlh2Ye-GYZjiZr7d2xTxcKVC8");
